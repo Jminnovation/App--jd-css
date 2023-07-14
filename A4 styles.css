@@ -1,0 +1,137 @@
+.B{
+
+    display:grid;
+    border-style: double;
+    background-color: rgb(158, 229, 193);
+    padding: 1%;
+    grid-template-columns: 40% 40% 40%;
+  
+    gap: 10px;
+    }
+#logo-item{
+        
+        margin-left: 250px;
+        border-style:ridge;
+        background-color: rgb(134, 98, 233);
+        text-align: center;
+        font-style:inherit ;
+        
+}
+.Marca{
+    margin-left: 20%;
+    
+}
+
+#IMG{
+
+    padding: 20%;
+    
+    
+    }
+    #text{
+    background-color: #41ce28;
+      margin-left: 65%;
+      border-radius: 80%;
+      width: 70%;
+      height: 60%;
+    
+      }
+      #E{
+        font-family: cursive;
+        text-align: center;
+        width: 80%;
+        margin-left: 11%;
+          } 
+          
+          #AU{
+            
+           padding: 30%;
+            margin-left: 8%;
+              }
+            
+             
+      #voz{
+       margin-left: 10%;
+      }
+      #icon{
+        margin:-250px 0 -1400px 0;
+        margin-left:-90%;
+       }
+       
+       #icon2{
+        margin:-250px 0 -1400px 0;
+        margin-left:-110%;
+        width: 80px;
+        background-color: dimgray;
+        border-radius: 70%;
+       }
+       #icon3{
+        margin:-250px 0 -1400px 0;
+        margin-left:100%;
+      
+       }
+       #icon4{
+        margin:-250px 0 -1400px 0;
+        margin-left:-30%;
+      
+       }
+       #icon5{
+        margin:-250px 0 -1400px 0;
+        margin-left:30%;
+      width: 20%;
+       }
+
+
+       #B1{
+
+        display:grid;
+        grid-template-columns:  40% 40%;
+        border-style: double;
+        background-color: rgb(61, 202, 221);
+        padding: 3%;
+        
+        
+        } 
+        #C{
+         margin: -40px 0 0 0;
+          margin-left:-35%;
+       
+         }
+         #V{
+          padding: 16%;
+          }
+
+          
+                
+      #AU{
+        margin: -50% 0 0 0 ; 
+        margin-left: -60%;
+  }
+
+      #voz{
+    margin: -50% 0 0 0 ; 
+    margin-left: 60%;
+   }
+               
+   #f{
+    margin: -7% 0 0 0 ; 
+    margin-left: -70%;
+    width: 30%;
+}
+
+  #L{
+    margin: 0 0 0 0;
+    margin-left: 70% ;
+    padding: 10%;
+  }
+
+   #T{
+    margin: 0 0 -20% ;
+    margin-left: 85% ;
+    width: 40%;
+  }
+  #X{
+    margin-top: 25%;
+    margin-left: 90% ;
+   width: 30%;
+  }
